@@ -1,1 +1,5 @@
 http://www.deeplearningbook.org/
+
+
+vedio tutorial : 
+http://www.learnbay.co/data-science-course/demo-session-and-sample-class-recordings/
