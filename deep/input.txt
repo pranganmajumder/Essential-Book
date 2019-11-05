@@ -1,5 +1,14 @@
 http://www.deeplearningbook.org/
 
+course : 
+1 == >> https://aiblog365.blogspot.com/2019/02/best-7-artificial-intelligence-courses.html
+
+
 
 vedio tutorial : 
-http://www.learnbay.co/data-science-course/demo-session-and-sample-class-recordings/
+1 == >> http://www.learnbay.co/data-science-course/demo-session-and-sample-class-recordings/
+
+2 == >> https://www.youtube.com/playlist?list=PLVHgQku8Z935nzWr8F1_KLiuMnzlGaAbR
+
+
+3 == >> https://www.youtube.com/playlist?list=PL9ooVrP1hQOGHNaCT7_fwe9AabjZI1RjI
